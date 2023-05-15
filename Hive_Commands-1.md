@@ -1,4 +1,4 @@
-#Basic Commands
+# Basic Commands
 show databases;
 
 create database hive_db;
